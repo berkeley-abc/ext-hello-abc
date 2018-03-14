@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/berkeley-abc/ext-hello-abc.svg?branch=master)](https://travis-ci.org/berkeley-abc/ext-hello-abc)
+
 # Adding an extension module to ABC without modifying ABC
 
 This repository contains an example on how to add a module to ABC without modifying ABC itself. This has several advantages:
