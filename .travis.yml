@@ -19,6 +19,6 @@ script:
   
   - git clone https://github.com/berkeley-abc/abc.git
   - ln -s $PWD abc/src/
-  - cd src
+  - cd abc
   - make -j3 
   - ./abc -c '@hello 1 2 3'
